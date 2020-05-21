@@ -1,0 +1,27 @@
+[ {
+  "EFFECTIVE_DATE" : "2015-09-09",
+  "REQUESTED_BY" : "admin",
+  "RULE_ID" : "ceb081db-5339-2cf4-550e-72b187cd2017",
+  "SHIP_OPTION" : "std-eu-se",
+  "PRIORITY" : "98",
+  "MARKETPLACE_ID" : "3",
+  "DELAY" : "691200"
+}, {
+  "EFFECTIVE_DATE" : "0004-02-19",
+  "REQUESTED_BY" : "admin",
+  "RULE_ID" : "e6b081da-4e61-90d7-2ef3-993b54424618",
+  "SHIP_OPTION" : "std-fr-dom-tom",
+  "PRIORITY" : "15",
+  "SHIP_METHOD" : "LP_COLIS_OUTRE_MER",
+  "DELAY" : "1296000",
+  "COUNTRY_CODE" : "MQ"
+}, {
+  "EFFECTIVE_DATE" : "2009-03-19",
+  "REQUESTED_BY" : "admin",
+  "RULE_ID" : "e0b081dc-2e81-bc3e-dbc9-6c5feb7a4be1",
+  "SHIP_OPTION" : "std-fr-dom-tom",
+  "PRIORITY" : "15",
+  "SHIP_METHOD" : "LP_COLIS_OUTRE_MER",
+  "DELAY" : "1296000",
+  "COUNTRY_CODE" : "GP"
+}]
