@@ -24,4 +24,14 @@
   "SHIP_METHOD" : "LP_COLIS_OUTRE_MER",
   "DELAY" : "1296000",
   "COUNTRY_CODE" : "GP"
+},
+{
+  "EFFECTIVE_DATE" : "2009-03-19",
+  "REQUESTED_BY" : "admin",
+  "RULE_ID" : "e0b081dc-2e81-bc3e-dbc9-6c5feb7a4be1",
+  "SHIP_OPTION" : "std-fr-dom-tom",
+  "PRIORITY" : "15",
+  "SHIP_METHOD" : "LP_COLIS_OUTRE_MER",
+  "DELAY" : "1296000",
+  "COUNTRY_CODE" : "GP"
 }]
